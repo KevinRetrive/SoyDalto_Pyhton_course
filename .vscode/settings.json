@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./13. Enrutamiento de módulos"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
+}

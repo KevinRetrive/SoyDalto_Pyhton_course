@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Flor
+Apellido: Hueche
+ -----------------------------
+
+Nombre: Kevin
+Apellido: Retrive
+ -----------------------------
+
+Nombre: Farid
+Apellido: Favarolo
+ -----------------------------
+
+Nombre: Agustina
+Apellido: Martinez
+ -----------------------------
